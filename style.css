@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+}
+
+#delete,#edit{
+  float: right;
+  padding: 10px 10px;
+}
+
+#details{
+  padding: 20px;
+}
